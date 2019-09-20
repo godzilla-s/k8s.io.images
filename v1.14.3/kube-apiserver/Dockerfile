@@ -1,2 +1,0 @@
-FROM k8s.gcr.io/kube-apiserver:v1.14.3
-MAINTAINER hason.zhu@gmail.com
